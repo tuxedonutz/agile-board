@@ -14,3 +14,12 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+.secret
+.idea
+.project
+.DS_Store
+doc/
+database.yml
+*.swp
+*~
